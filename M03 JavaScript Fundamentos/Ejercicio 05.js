@@ -1,7 +1,7 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*5️⃣ EJERCICIO 05 5️⃣*/
 
-function esPositivo(num) {
+function esPositivo(num) { if ( num >0) {return "Es positivo" } else {return "Es negativo"};
    // La función recibe un entero. Devuelve como resultado un string que indica si el número
    // es positivo o negativo.
    // Si el número es positivo ---> "Es positivo".
